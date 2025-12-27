@@ -1,0 +1,20 @@
+#original-glazed {
+    color:green;
+    font-size: x-large;
+    font-weight:595;
+}
+
+#chocolate-frosted {
+    color:brown;
+}
+
+table {
+padding-top:4px;
+padding-bottom:1px;
+padding-right:3px;
+padding-left:2px;
+border-width:thick;
+border-color:blue;
+border-style:double;
+margin-top:50px;
+}
